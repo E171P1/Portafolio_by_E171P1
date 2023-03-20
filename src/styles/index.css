@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  color: whitesmoke;
+  font-family: 'Bitter', serif;
+  font-family: 'Electrolize', sans-serif;
+}
+
+@font-face {
+  font-family: 'Electrolize';
+  src: local('Electrolize'), url(../src/assets/fonts/Electrolize/Electrolize-Regular.ttf) format('truetype');
+}
